@@ -1,6 +1,6 @@
 const Home = () => {
    return (
-      <div id="pixel-home">
+      <div id="pixel-home" className="pixel-home">
          <div className="pixel-home-container">
             <div className="pixel-brand">
                <div className="pixel-logo">
