@@ -17,6 +17,11 @@ const Header = () => {
                      <li>
                         <a href="#">Example</a>
                      </li>
+                     <li>
+                        <a href="#" className="btn">
+                           Sing In
+                        </a>
+                     </li>
                   </ul>
                </nav>
             </div>
